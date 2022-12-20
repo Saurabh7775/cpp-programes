@@ -21,4 +21,5 @@ main()
 	{
 		cout<<"Abnormal Height";
 	}
+	cout<<"-----------";
 }
